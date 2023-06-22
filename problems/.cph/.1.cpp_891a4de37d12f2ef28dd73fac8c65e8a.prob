@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"d:\\Phitron\\Basic-Data-Structures\\problems\\1.cpp","tests":[{"id":1687005639046,"input":"20 10 40 30 50 -1","output":"30"},{"id":1687005645807,"input":"20 30 10 40 60 50 -1","output":"40 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic-Data-Structures\\problems\\1.cpp","group":"local","local":true}

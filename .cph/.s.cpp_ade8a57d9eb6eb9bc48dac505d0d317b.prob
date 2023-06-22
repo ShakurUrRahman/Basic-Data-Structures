@@ -1,0 +1,1 @@
+{"name":"Local: s","url":"d:\\Phitron\\Basic-Data-Structures\\s.cpp","tests":[{"id":1686926479902,"input":"aaabbc","output":"a : 3\nb : 2\nc : 1"},{"id":1686926521227,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic-Data-Structures\\s.cpp","group":"local","local":true}

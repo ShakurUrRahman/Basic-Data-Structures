@@ -2,18 +2,17 @@
 using namespace std;
 int main()
 {
-    vector<int> x={10,20,30,40};
-    x.pop_back();
-    x.pop_back();
-    for(int i=0;i<x.size();i++)
-    {
-        cout<<x[i]<<" ";
+    vector<int> a={10, 20 ,30};
+    a.pop_back();
+    for(int i=0;i<a.size();i++){
+        cout<<a[i]<<" ";
     }
-    // vector<int> v={1,2,3};
-    // v=x; // O(N)
-    // for(int i=0;i<v.size();i++)
+    // vector<int> b={100, 200 ,300, 500};
+    // a=b;
+    // for (int i = 0; i < a.size(); i++)
     // {
-    //     cout<<v[i]<<" ";
+    //     cout<<a[i]<<" ";
     // }
+    
     return 0;
 }
